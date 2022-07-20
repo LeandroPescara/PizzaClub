@@ -141,11 +141,6 @@ button {
     color: white;
     padding: 10px;  
 }
-
-.btn {
-    color:white;
-}
-
 button:hover {
     background-image: linear-gradient(100deg, #049efc, #56b1e9 );
     transform: scale(1.05,1.05);
