@@ -1,4 +1,4 @@
-<h1> pizza club - proyectod e coderhouse </h1>
+<h1> pizza club - proyecto  de coderhouse </h1>
 <p> este sitio es una pagina sobre pizzas </p>
 
 <h2> tecnologias usadas </h2>
