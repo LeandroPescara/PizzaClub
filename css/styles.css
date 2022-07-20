@@ -1,0 +1,122 @@
+/* font-family: 'Anek Latin', sans-serif;
+    font-family: 'Roboto', sans-serif; */
+*{
+    margin:0px;/*MARGEN EXTERNO*/
+    padding:0px;/*MARGEN INTERNO*/
+}
+/* css estructura y partes fundamentales y universales */
+header {
+    position: sticky;
+    top: 0px;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    padding: 10 10 10 10px;
+    color: rgb(218, 145, 37);
+    background-color: black;
+}
+h2 {
+    font-family: 'Anek Latin', sans-serif;
+    padding: 10 10px;
+    color: burlywood;
+    background-color: rgb(83, 60, 60);
+}
+p {
+    font-family: 'Anek Latin', sans-serif;
+    padding: 10 10px;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Anek Latin', sans-serif;
+    color: blanchedalmond;
+    background-color: black;
+    padding: 10 10px;
+    
+}
+li {
+    display: inline;
+    margin: 0 30px;
+}
+.redes {
+
+    width:25px;/*ANCHO*/
+    background-color: rgb(68, 61, 61);
+    padding: 10 10px;
+
+}
+body {
+    padding: 10 10px;
+    background-color: rgb(44, 44, 44);
+    color: burlywood;
+    
+
+}
+.header__lista  {
+    font-family: 'Anek Latin', sans-serif;
+
+    color: rgb(49, 38, 21);
+    margin: 0 10px;
+    padding: 0 30px;
+    background-color: rgb(226, 219, 219);
+}
+/* fin de fundamentales */
+/* css membresia */
+.imagen__pizzamujer {
+    width: 400px;
+}
+/* fin membresia */
+.lista__pizzasfav {
+    display: block
+}
+.imagen__index {
+    border: 30 30px;
+    background-color:  rgb(44, 44, 44);
+    margin: 30 30px;
+    padding: 30 30px;
+    display: flex;
+}
+.Titulo__pizza {
+    border: 0 10px;
+    padding: 20px;
+
+}
+.minititulo_pref {
+    border: 0 10px;
+    padding: 10px;
+}
+.imagenes__section {
+    width: 600px;
+    display: inline;
+    border: 0 10px;
+    padding: 10px;
+}
+.membresia__idx {
+    width: 600px;
+    display: inline;
+    border: 0 10px;
+    padding: 10px;
+}
+.contacto__idx {
+    border: 0 10px;
+    padding: 10px;
+    background-color: black;
+}
+.lorem__sobrenosotros{
+    border: 0 10px;
+    margin: 0 10px;
+    padding: 0 30px;
+}
+.lorem__index {
+    text-align: left;
+    background-color:  rgb(44, 44, 44);
+}
+.cajas__index {
+    text-align: left;
+    border: 30 30px;
+    background-color:  rgb(44, 44, 44);
+    margin: 30 30px;
+    padding: 30 30px;
+    display: flex;
+    justify-content: center;
+}
