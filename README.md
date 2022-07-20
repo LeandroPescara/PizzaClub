@@ -3,8 +3,8 @@
 
 <h2> tecnologias usadas </h2>
 <ul>
-<li>Html5</l1>
-<li>CSS3</li>
-<li>Bootstrap</li>
-<li>SASS</li>
+    <li>Html5</l1>
+    <li>CSS3</li>
+    <li>Bootstrap</li>
+    <li>SASS</li>
 </ul>
