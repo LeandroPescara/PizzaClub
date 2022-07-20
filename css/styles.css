@@ -120,3 +120,34 @@ body {
     display: flex;
     justify-content: center;
 }
+.boton {
+    grid-column: 2/8 ;
+    grid-row: 3/4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton button {
+    width: 500px;
+    height: 70px;
+    font-size: 32px;
+}
+
+button {
+    background-image: linear-gradient(100deg, #049efc, #56b1e9 );
+    border: #049efc solid 1px;
+    border-radius: 15px;  
+    color: white;
+    padding: 10px;  
+}
+
+.btn {
+    color:white;
+}
+
+button:hover {
+    background-image: linear-gradient(100deg, #049efc, #56b1e9 );
+    transform: scale(1.05,1.05);
+    transition: all 1s;
+}
